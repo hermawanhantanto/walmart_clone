@@ -1,7 +1,8 @@
 version: 0.2
 
 env:
-  variables: OXYLABS_USERNAME=hermawanhant
+  variables: 
+    OXYLABS_USERNAME=hermawanhant
     OXYLABS_PASSWORD=Hermawan212h
 
 phases:
